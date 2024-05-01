@@ -8,5 +8,3 @@ export const load = (async () => {
         classes: JSON.parse(data) as Class[]
     };
 }) satisfies PageLoad;
-
-export const ssr = false;

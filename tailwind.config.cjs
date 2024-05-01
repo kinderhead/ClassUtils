@@ -27,7 +27,7 @@ const config = {
         "roboto": ["Roboto"]
       },
       gridTemplateColumns: {
-        "randomizer": "auto 1fr 1fr"
+        "randomizer": "auto auto 1fr auto"
       }
     }
   }

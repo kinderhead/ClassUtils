@@ -1,3 +1,4 @@
-export default class Class {
-
+export default interface Class {
+    name: string;
+    people: string[];
 }
